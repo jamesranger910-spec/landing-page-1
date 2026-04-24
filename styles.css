@@ -25,3 +25,13 @@ body {
 .navbar a:hover {
     text-decoration: underline;
 }
+
+#skibity {
+    margin-left: 470px;
+    margin-top: 500px;
+
+}
+
+#tvman1 {
+    width: 400px;
+}
